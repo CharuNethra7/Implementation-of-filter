@@ -1,4 +1,7 @@
-# Implementation-of-filter
+# EX 05 Implementation-of-filter
+# DEVELOPED BY: CHARU NETHRA R
+# REGISTER NUMBER: 212223230035
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -23,8 +26,6 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-### Developed By   : CHARU NETHRA R
-### Register Number: 212223230035
 </br>
 
 ### 1. Smoothing Filters
